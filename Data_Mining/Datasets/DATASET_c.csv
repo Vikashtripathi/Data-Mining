@@ -1,0 +1,15 @@
+Day,Outllok,Temperature,Humidity,Winter,Play_ball
+1,sunny,85,High,weak,No
+2,sunny,80,High,strong,No
+3,Overcast,83,High,weak,Yes
+4,Rain,70,High,weak,Yes
+5,Rain,68,Normal,weak,Yes
+6,Rain,65,Normal,strong,No
+7,Overcast,64,Normal,strong,Yes
+8,sunny,72,High,weak,No
+9,sunny,69,Normal,weak,Yes
+10,Rain,75,Normal,weak,Yes
+11,sunny,75,Normal,strong,Yes
+12,Overcast,72,High,strong,Yes
+13,Overcast,81,Normal,weak,Yes
+14,Rain,71,High,strong,No
